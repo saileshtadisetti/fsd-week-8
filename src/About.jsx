@@ -1,0 +1,12 @@
+import React from "react";
+
+function About() {
+    return (
+        <div>
+            <h1>About</h1>
+            <p>This is the About page for the React Router app.</p>
+        </div>
+    );
+}
+
+export default About;
